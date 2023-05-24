@@ -10,6 +10,7 @@
   @include respond(phone) {
     padding-bottom: 1px;
   }
+
   .project-wrapper {
     margin-bottom: 15rem;
     @include respond(phone) {
